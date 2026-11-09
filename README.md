@@ -73,7 +73,6 @@ Ao detectar uma violação, o software processa os sinais dos sensores e coorden
 
 ## Componentes utilizados
 
-> Ajuste a lista conforme o que foi efetivamente usado na montagem.
 
 | Qtd. | Componente | Função |
 |:----:|------------|--------|
@@ -89,7 +88,6 @@ Ao detectar uma violação, o software processa os sinais dos sensores e coorden
 
 ## Esquema de ligação
 
-> Os pinos abaixo são um exemplo. Atualize conforme o seu circuito e o seu código.
 
 | Dispositivo | Pino do Arduino |
 |-------------|-----------------|
@@ -100,12 +98,6 @@ Ao detectar uma violação, o software processa os sinais dos sensores e coorden
 | Atuador (relé) | `D9` |
 | LED de estado (armado) | `D10` |
 | LED de alerta (disparo) | `D11` |
-
-Adicione aqui a imagem do esquema elétrico:
-
-```
-docs/esquema_eletrico.png
-```
 
 ## Lógica de funcionamento
 
@@ -154,7 +146,6 @@ void loop() {
 
 ## Estrutura do repositório
 
-> Adapte à organização real do seu projeto.
 
 ```
 .
